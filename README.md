@@ -86,8 +86,8 @@ Scraped job postings to uncover in-demand skills across U.S. cities. Applied NLP
 
 ## 📬 Let’s Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-💻 [GitHub](https://github.com/yourusername)  
+🔗 [LinkedIn](https://www.linkedin.com/in/haniaabdelrahman)  
+💻 [GitHub](https://github.com/haniae)  
 📫 haniaa@gwmail.gwu.edu
 
 ---
