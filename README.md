@@ -1,46 +1,42 @@
-# 👋 Hi, I’m Hania A.
+#  Hi, I’m Hania A.
 
-🎓 MS in Business Analytics @ The George Washington University  
-📊 Data Analyst | 🤖 ML Enthusiast | ⚖️ Ethical AI Advocate  
-💡 Turning complex data into strategic insight
+ MS in Business Analytics @ The George Washington University  
+ Data Analyst |  ML Enthusiast | Ethical AI Advocate  
+ Turning complex data into strategic insight
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-I’m a data-driven Business Analytics graduate student with a multidisciplinary background in marketing, HR analytics, and entrepreneurship. My mission is to build machine learning solutions that are not only accurate but also interpretable, ethical, and actionable.
+I’m a data-driven Business Analytics graduate student with a multidisciplinary background in marketing, strategy, analytics and data science. My mission is to build machine learning solutions that are not only accurate but also interpretable, ethical, and actionable.
 
 With hands-on experience across consulting, cloud-based pipelines, and predictive modeling, I enjoy bridging the gap between business needs and technical innovation—delivering tools that inform decisions, drive efficiency, and promote fairness.
 
 ---
 
-## 🔍 What I’m Passionate About
+##  What I’m Passionate About
 
-- ✅ Designing explainable, bias-aware ML models using SHAP, EBM, and post hoc tools  
-- ⏱️ Building scalable forecasting pipelines using Python, SQL, and AWS  
-- 💳 Exploring CECL (Current Expected Credit Loss) for responsible credit risk modeling  
-- 🧠 Translating business questions into data-driven experimentation  
-- 💪 Bringing resilience and clarity—shaped by years of weightlifting—into analytical work
+-  Designing explainable, bias-aware ML models using SHAP, EBM, and post hoc tools  
+-  Building scalable forecasting pipelines using Python, SQL, and AWS  
+-  Exploring CECL (Current Expected Credit Loss) for responsible credit risk modeling  
+-  Translating business questions into data-driven experimentation  
+-  Bringing resilience and clarity—shaped by years of weightlifting—into analytical work
 
 ---
 
-## 🧠 Education
+##  Education
 
-**🎓 The George Washington University – School of Business**  
-*Master of Science (MSc), Business Analytics*  
-📍 Washington, DC | 🗓 Expected Graduation: December 2025  
+** The George Washington University – School of Business**  
+*Master of Science (MSc), Business Analytics*   
 **Relevant Coursework:**  
 Programming for Analytics I & II • Data Visualization • Machine Learning I & II • Decision Models •  
 Optimization • Statistics for Analytics I & II • Database Management • Probability • Digital Marketing Analytics
 
-**🎓 The American University in Cairo – School of Business**  
+**The American University in Cairo – School of Business**  
 *Bachelor of Business Administration (BBA), Marketing*  
-📍 Cairo, Egypt | 🗓 December 2023  
-**Honors:** Summa Cum Laude • Dean’s List • GPA: 3.8 / 4.0
-
 ---
 
-## 🛠 Technical Skills
+## Technical Skills
 
 **Programming & Visualization**  
 Python (NumPy, Pandas, scikit-learn, Matplotlib, Seaborn) • R • SQL • SAS • Tableau • Power BI • Excel • PowerPoint
@@ -65,7 +61,7 @@ Arabic (Native) • English (Fluent)
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 🚲 Capital Bikeshare Demand Forecasting  
 Developed LASSO and Ridge regression models with 85%+ accuracy to forecast daily demand. Streamlined fleet allocation strategy with real-time insights from weather and seasonality data.
@@ -84,7 +80,7 @@ Scraped job postings to uncover in-demand skills across U.S. cities. Applied NLP
 
 ---
 
-## 📬 Let’s Connect
+##  Let’s Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/haniaabdelrahman)  
 💻 [GitHub](https://github.com/haniae)  
