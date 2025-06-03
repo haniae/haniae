@@ -12,8 +12,6 @@ I’m a data-driven Business Analytics graduate student with a multidisciplinary
 
 With hands-on experience across consulting, cloud-based pipelines, and predictive modeling, I enjoy bridging the gap between business needs and technical innovation—delivering tools that inform decisions, drive efficiency, and promote fairness.
 
-When I’m not coding or building dashboards, I apply the same discipline I’ve honed as a fitness coach to help teams push projects across the finish line.
-
 ---
 
 ## 🔍 What I’m Passionate About
